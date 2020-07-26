@@ -16,22 +16,14 @@
     "test": "echo \"No tests specified\"",
     "ship": "npm run build && npm publish"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KumarAbhirup/koji-leaderboard-api.git"
-  },
   "keywords": [
     "koji",
     "koji-database",
     "npm",
     "package"
   ],
-  "author": "Kumar Abhirup <kumarabhirup5@gmail.com> (http://kumar.now.sh)",
+  "author": "Phung Thai Hung",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/KumarAbhirup/koji-leaderboard-api/issues"
-  },
-  "homepage": "https://github.com/KumarAbhirup/koji-leaderboard-api#readme",
   "devDependencies": {
     "@types/node": "^12.7.3",
     "@typescript-eslint/eslint-plugin": "^2.0.0",
